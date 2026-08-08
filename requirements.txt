@@ -1,0 +1,20 @@
+# core
+langgraph
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLL provider
+langchain-openai
+
+# Notebook + visualization
+jupyter
+ipykernel
+
+# optional
+langgraph-checkpoint-sqlite
+fastapi
+unicorn
+
+langsmith
+
